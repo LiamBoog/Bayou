@@ -1,0 +1,17 @@
+{
+    "name": "com.first-gear-games.bayou",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b6df81a1dcda89c48aa06e4698080b4d",
+        "GUID:423915746b7922947b94c4a256816cfb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
